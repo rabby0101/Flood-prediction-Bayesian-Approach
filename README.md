@@ -61,6 +61,3 @@ Feel free to contribute by improving feature engineering, adding more predictors
 ## License
 This project is released under the MIT License.
 
-## Contact
-For any inquiries, contact: [Your Email or GitHub Profile]
-
